@@ -5,10 +5,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Live demo for Multipurpose Portfolio By WINK Website Template #101269</title>
-<meta property="og:title" content="Live demo for Multipurpose Portfolio By WINK Website Template #101269"/>
-<meta name="twitter:title" content="Live demo for Multipurpose Portfolio By WINK Website Template #101269"/>
-<meta name="og:image:alt" content="Live demo for Multipurpose Portfolio By WINK Website Template #101269"/>
+    <title>Demo Preview for Hazel - Clean Minimalist Multi-Purpose WordPress Theme #67167</title>
+<meta property="og:title" content="Demo Preview for Hazel - Clean Minimalist Multi-Purpose WordPress Theme #67167"/>
+<meta name="twitter:title" content="Demo Preview for Hazel - Clean Minimalist Multi-Purpose WordPress Theme #67167"/>
+<meta name="og:image:alt" content="Demo Preview for Hazel - Clean Minimalist Multi-Purpose WordPress Theme #67167"/>
       <meta name="robots" content="noindex,nofollow">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
   <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" sizes="180x180">
@@ -28,12 +28,12 @@
   <meta name="twitter:site" content="@templatemonster"/>
   <meta name="twitter:creator" content="@templatemonster"/>
   <meta property="og:type" content="page"/>
-  <meta name="description" content="Multipurpose Portfolio By WINK Website Template#101269">
-  <meta property="og:description" content="Multipurpose Portfolio By WINK Website Template#101269">
-  <meta property="twitter:description" content="@templatemonster Multipurpose Portfolio By WINK Website Template#101269">
-  <meta property="og:image" content="https://s.tmimgcdn.com/scr/1200x627/101200/multipurpose-portfolio-by-wink-website-template_101269-5-original.jpg">
-  <meta property="twitter:image" content="https://s.tmimgcdn.com/scr/1200x627/101200/multipurpose-portfolio-by-wink-website-template_101269-5-original.jpg">
-  <link property="image_src" href="https://s.tmimgcdn.com/scr/1200x627/101200/multipurpose-portfolio-by-wink-website-template_101269-5-original.jpg">
+  <meta name="description" content="The demo of this high quality Hazel - Clean Minimalist Multi-Purpose WordPress Theme (#67167) is available here for you to get the feel and look of the design prior to buying it. Browse through the pages, check out the images, press the buttons, explore the features.">
+  <meta property="og:description" content="The demo of this high quality Hazel - Clean Minimalist Multi-Purpose WordPress Theme (#67167) is available here for you to get the feel and look of the design prior to buying it. Browse through the pages, check out the images, press the buttons, explore the features.">
+  <meta property="twitter:description" content="@templatemonster The demo of this high quality Hazel - Clean Minimalist Multi-Purpose WordPress Theme (#67167) is available here for you to get the feel and look of the design prior to buying it. Browse through the pages, check out the images, press the buttons, explore the features.">
+  <meta property="og:image" content="https://s.tmimgcdn.com/scr/1200x627/67100/hazel-clean-minimalist-multi-purpose-wordpress-theme_67167-6-original.jpg">
+  <meta property="twitter:image" content="https://s.tmimgcdn.com/scr/1200x627/67100/hazel-clean-minimalist-multi-purpose-wordpress-theme_67167-6-original.jpg">
+  <link property="image_src" href="https://s.tmimgcdn.com/scr/1200x627/67100/hazel-clean-minimalist-multi-purpose-wordpress-theme_67167-6-original.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="627">
   <meta property="fb:app_id" content="128293383907353"/>
@@ -53,36 +53,24 @@
 <!-- End Google Tag Manager (noscript) -->
   <div class="wrap">
     <header class="header" id="frame-panel">
-  <a href="https://www.templatemonster.com/website-templates/101269.html" class="back-to-product">
+  <a href="https://www.templatemonster.com/wordpress-themes/hazel-clean-minimalist-multi-purpose-wordpress-theme-67167.html" class="back-to-product">
     <span class="back-to-product-icon"></span>
-    Multipurpose Portfolio By WINK Website Template  </a>
-  <div class="devices devices-static" id="devices" data-translations="{&quot;desktop&quot;:&quot;Desktop&quot;,&quot;tablet&quot;:&quot;Tablet&quot;,&quot;smartphone&quot;:&quot;Mobile&quot;}"></div>
+    Hazel - Clean Minimalist Multi-Purpose WordPress Theme  </a>
+  <div class="devices " id="devices" data-translations="{&quot;desktop&quot;:&quot;Desktop&quot;,&quot;tablet&quot;:&quot;Tablet&quot;,&quot;smartphone&quot;:&quot;Mobile&quot;}"></div>
   <div class="header-buttons">
     <div class="add-to-cart" id="add-to-cart"
       data-translations="{&quot;label&quot;:&quot;Buy Now&quot;,&quot;modalLabel&quot;:&quot;Add to Cart&quot;,&quot;servicesTitle&quot;:&quot;Recommended services available for this item&quot;,&quot;freeTitle&quot;:&quot;Free Product&quot;}"
-      data-product-id="101269"
-      data-product-title="Multipurpose Portfolio By WINK Website Template"
-      data-type-id="1"
-      data-licenses="[{&quot;type&quot;:&quot;regular&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;amount&quot;,&quot;value&quot;:0,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:46,&quot;items&quot;:[],&quot;isDefault&quot;:1,&quot;translates&quot;:{&quot;title&quot;:&quot;Personal license&quot;,&quot;description&quot;:&quot;This license can be used only for one personal website. With this license, you can&#039;t resell or redistribute the template or the end product based on it&quot;},&quot;prices&quot;:{&quot;regular&quot;:41,&quot;regularLabel&quot;:&quot;$41&quot;,&quot;discount&quot;:41,&quot;discountLabel&quot;:&quot;$41&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 46&quot;}},{&quot;type&quot;:&quot;commercial&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;percent&quot;,&quot;value&quot;:30,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:47,&quot;items&quot;:[],&quot;isDefault&quot;:0,&quot;translates&quot;:{&quot;title&quot;:&quot;Commercial license&quot;,&quot;description&quot;:&quot;With this license, you and your clients can create up to five different websites. The license allows you to transfer or resell the end products (websites based on this template)&quot;},&quot;prices&quot;:{&quot;regular&quot;:53,&quot;regularLabel&quot;:&quot;$53&quot;,&quot;discount&quot;:53,&quot;discountLabel&quot;:&quot;$53&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 47&quot;}}]"
-      data-services="[{&quot;id&quot;:772,&quot;translates&quot;:{&quot;title&quot;:&quot;Must-Have Launch Pack&quot;},&quot;prices&quot;:{&quot;regular&quot;:79,&quot;regularLabel&quot;:&quot;$79&quot;,&quot;discount&quot;:24,&quot;discountLabel&quot;:&quot;$24&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:772,&quot;price&quot;:0.24,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: Website Templates: Must-Have Pack&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:888,&quot;translates&quot;:{&quot;title&quot;:&quot;Classic Website Customization Service&quot;},&quot;prices&quot;:{&quot;regular&quot;:299,&quot;regularLabel&quot;:&quot;$299&quot;,&quot;discount&quot;:149,&quot;discountLabel&quot;:&quot;$149&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:888,&quot;price&quot;:1.49,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: Website and Joomla Templates: Classic Website Customization Service&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:2,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:1517,&quot;translates&quot;:{&quot;title&quot;:&quot;All-in-One Website&quot;},&quot;prices&quot;:{&quot;regular&quot;:1342,&quot;regularLabel&quot;:&quot;$1,342&quot;,&quot;discount&quot;:399,&quot;discountLabel&quot;:&quot;$399&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:1517,&quot;price&quot;:3.99,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: All-in-One Website (HTML) (0.42 - moto; 0.58 - tt)&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:3,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:1811,&quot;translates&quot;:{&quot;title&quot;:&quot;Add Live Drag&amp;Drop WP Builder by Elementor&quot;},&quot;prices&quot;:{&quot;regular&quot;:299,&quot;regularLabel&quot;:&quot;$299&quot;,&quot;discount&quot;:199,&quot;discountLabel&quot;:&quot;$199&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:1811,&quot;price&quot;:1.99,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: HTML: Add Live Drag&amp;Drop WP Builder by Elementor&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:4,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:1173,&quot;translates&quot;:{&quot;title&quot;:&quot;Extended On-Page SEO Optimization&quot;},&quot;prices&quot;:{&quot;regular&quot;:299,&quot;regularLabel&quot;:&quot;$299&quot;,&quot;discount&quot;:299,&quot;discountLabel&quot;:&quot;$299&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:1173,&quot;price&quot;:2.99,&quot;brand&quot;:&quot;FM&quot;,&quot;category&quot;:&quot;FM: Extended On-Page SEO Optimization (preview)&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:5,&quot;list&quot;:&quot;Type - Offers&quot;}}]"
-      data-paid-supports="{&quot;isIncludeBasicSupport&quot;:true,&quot;items&quot;:[{&quot;id&quot;:13878,&quot;translates&quot;:{&quot;title&quot;:&quot;Get 6 more months of support and save $17&quot;,&quot;description&quot;:&quot;With a product you will get 6 months of support from the author. To know more about what is included, please read the &lt;a href=\&quot;https:\/\/www.templatemonster.com\/support-policy\/\&quot; target=\&quot;_blank\&quot;&gt;support policy&lt;\/a&gt;.&quot;},&quot;prices&quot;:{&quot;regular&quot;:29,&quot;regularLabel&quot;:&quot;$29&quot;,&quot;discount&quot;:12,&quot;discountLabel&quot;:&quot;$12&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:13878,&quot;price&quot;:0.12,&quot;brand&quot;:&quot;TM&quot;,&quot;category&quot;:&quot;paid support&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Type - Paid Support&quot;}}]}"
+      data-product-id="67167"
+      data-product-title="Hazel - Clean Minimalist Multi-Purpose WordPress Theme"
+      data-type-id="17"
+      data-licenses="[{&quot;type&quot;:&quot;regular&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;amount&quot;,&quot;value&quot;:0,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:46,&quot;items&quot;:[],&quot;isDefault&quot;:1,&quot;translates&quot;:{&quot;title&quot;:&quot;Personal license&quot;,&quot;description&quot;:&quot;This license can be used only for one personal website. With this license, you can&#039;t resell or redistribute the template or the end product based on it&quot;},&quot;prices&quot;:{&quot;regular&quot;:98,&quot;regularLabel&quot;:&quot;$98&quot;,&quot;discount&quot;:98,&quot;discountLabel&quot;:&quot;$98&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 46&quot;}},{&quot;type&quot;:&quot;commercial&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;percent&quot;,&quot;value&quot;:30,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:47,&quot;items&quot;:[],&quot;isDefault&quot;:0,&quot;translates&quot;:{&quot;title&quot;:&quot;Commercial license&quot;,&quot;description&quot;:&quot;With this license, you and your clients can create up to five different websites. The license allows you to transfer or resell the end products (websites based on this template)&quot;},&quot;prices&quot;:{&quot;regular&quot;:127,&quot;regularLabel&quot;:&quot;$127&quot;,&quot;discount&quot;:127,&quot;discountLabel&quot;:&quot;$127&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 47&quot;}}]"
+      data-services="[{&quot;id&quot;:13,&quot;translates&quot;:{&quot;title&quot;:&quot;Installation &amp; Setup&quot;},&quot;prices&quot;:{&quot;regular&quot;:54,&quot;regularLabel&quot;:&quot;$54&quot;,&quot;discount&quot;:34,&quot;discountLabel&quot;:&quot;$34&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:13,&quot;price&quot;:0.34,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT : WordPress Themes : Installation &amp; Setup&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:362,&quot;translates&quot;:{&quot;title&quot;:&quot;Must-Have Plugins&quot;},&quot;prices&quot;:{&quot;regular&quot;:84,&quot;regularLabel&quot;:&quot;$84&quot;,&quot;discount&quot;:24,&quot;discountLabel&quot;:&quot;$24&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:362,&quot;price&quot;:0.24,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: WordPress&amp;Elementor: Must-Have Plugins&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:2,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:909,&quot;translates&quot;:{&quot;title&quot;:&quot;GDPR &amp; CCPA Compliance - New Privacy Rules&quot;},&quot;prices&quot;:{&quot;regular&quot;:99,&quot;regularLabel&quot;:&quot;$99&quot;,&quot;discount&quot;:49,&quot;discountLabel&quot;:&quot;$49&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:909,&quot;price&quot;:0.49,&quot;brand&quot;:&quot;Zemez&quot;,&quot;category&quot;:&quot;TM: WP&amp;Woo: GDPR &amp; CCPA Compliance - New Privacy Rules&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:3,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:1180,&quot;translates&quot;:{&quot;title&quot;:&quot;Classic Website Customization Service&quot;},&quot;prices&quot;:{&quot;regular&quot;:299,&quot;regularLabel&quot;:&quot;$299&quot;,&quot;discount&quot;:149,&quot;discountLabel&quot;:&quot;$149&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:1180,&quot;price&quot;:1.49,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: WP: Classic Website Customization Service&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:4,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:1756,&quot;translates&quot;:{&quot;title&quot;:&quot;Most Needed Website Pack&quot;},&quot;prices&quot;:{&quot;regular&quot;:827,&quot;regularLabel&quot;:&quot;$827&quot;,&quot;discount&quot;:399,&quot;discountLabel&quot;:&quot;$399&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:1756,&quot;price&quot;:3.99,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: Most Needed Website Pack (for WordPress &amp; Joomla)&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:5,&quot;list&quot;:&quot;Type - Offers&quot;}}]"
+      data-paid-supports="{&quot;isIncludeBasicSupport&quot;:true,&quot;items&quot;:[{&quot;id&quot;:8893,&quot;translates&quot;:{&quot;title&quot;:&quot;Get 6 more months of support and save $40&quot;,&quot;description&quot;:&quot;With a product you will get 6 months of support from the author. To know more about what is included, please read the &lt;a href=\&quot;https:\/\/www.templatemonster.com\/support-policy\/\&quot; target=\&quot;_blank\&quot;&gt;support policy&lt;\/a&gt;.&quot;},&quot;prices&quot;:{&quot;regular&quot;:69,&quot;regularLabel&quot;:&quot;$69&quot;,&quot;discount&quot;:29,&quot;discountLabel&quot;:&quot;$29&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:8893,&quot;price&quot;:0.29,&quot;brand&quot;:&quot;TM&quot;,&quot;category&quot;:&quot;paid support&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Type - Paid Support&quot;}}]}"
       data-free="{&quot;enable&quot;:false}"
       data-is-state-sale="true"
-      data-is-default-paid-support-on="true"
-      data-product-gee="{&quot;name&quot;:&quot;Website template&quot;,&quot;id&quot;:101269,&quot;price&quot;:0.41,&quot;brand&quot;:&quot;Website templates&quot;,&quot;category&quot;:&quot;Artist Portfolio Templates&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;list&quot;:&quot;Type&quot;}">
+      data-is-default-paid-support-on="false"
+      data-product-gee="{&quot;name&quot;:&quot;WordPress theme&quot;,&quot;id&quot;:67167,&quot;price&quot;:0.98,&quot;brand&quot;:&quot;Website templates&quot;,&quot;category&quot;:&quot;Marketing Agency Templates&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;list&quot;:&quot;Type&quot;}">
     </div>
-          <a
-        href="https://www.templatemonster.com/monsterone/tm-membership/?id=101269"
-        target=""
-        rel="nofollow"
-        class="header-btn header-btn_membership"
-      >
-        <img
-          class="header-btn-icon inline-svg"
-          data-src="/assets/icons/monsterEye.svg"
-          alt="monsterEye"
-        />
-        Get Unlimited Downloads      </a>
     
     <div id="cart" class="header-button header_cart-demo cart-button"
       data-cart-translations="{&quot;cartTitle&quot;:&quot;Shopping Cart&quot;,&quot;titleServices&quot;:&quot;Recommended Customization Services for This Product&quot;,&quot;servicesDetailsLabel&quot;:&quot;Details&quot;,&quot;labelBack&quot;:&quot;Back to All Services&quot;,&quot;cartTop&quot;:&quot;You added to cart&quot;,&quot;continueLabel&quot;:&quot;Continue Shopping&quot;,&quot;licenseCaption&quot;:&quot;License type&quot;,&quot;priceCaption&quot;:&quot;Total&quot;,&quot;singlePriceCaption&quot;:&quot;Subtotal&quot;,&quot;viewCartLabel&quot;:&quot;Go To Cart&quot;,&quot;priceButtonLabel&quot;:&quot;Checkout Now&quot;,&quot;freeLabel&quot;:&quot;Free&quot;,&quot;feeCaption&quot;:&quot;Handling fee&quot;,&quot;labelCusomersChoice&quot;:&quot;Customers&#039; #1 choice&quot;}"
@@ -97,18 +85,18 @@
   <div
     class="product-cart-modal-wrapper"
     id="product-cart-modal"
-    data-type-id="1"
-    data-product-type-name="Website template"
+    data-type-id="17"
+    data-product-type-name="WordPress theme"
     data-translations="{&quot;cartTitle&quot;:&quot;Shopping Cart&quot;,&quot;titleServices&quot;:&quot;Recommended Customization Services for This Product&quot;,&quot;servicesDetailsLabel&quot;:&quot;Details&quot;,&quot;labelBack&quot;:&quot;Back to All Services&quot;,&quot;cartTop&quot;:&quot;You added to cart&quot;,&quot;continueLabel&quot;:&quot;Continue Shopping&quot;,&quot;licenseCaption&quot;:&quot;License type&quot;,&quot;priceCaption&quot;:&quot;Total&quot;,&quot;singlePriceCaption&quot;:&quot;Subtotal&quot;,&quot;viewCartLabel&quot;:&quot;Go To Cart&quot;,&quot;priceButtonLabel&quot;:&quot;Checkout Now&quot;,&quot;freeLabel&quot;:&quot;Free&quot;,&quot;feeCaption&quot;:&quot;Handling fee&quot;,&quot;labelCusomersChoice&quot;:&quot;Customers&#039; #1 choice&quot;}"
   ></div>
 </header>
       <section class="content">
     <div class="frame-wrapper" id="frame-wrapper">
-      <iframe class="frame" src="https://myworkfow.space/themes/templatemonster/" width="100%" height="400px" title="Preview Template" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-popups"></iframe>          </div>
+      <iframe class="frame" src="https://preview.treethemes.com/hazel/" width="100%" height="400px" title="Preview Template" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-popups"></iframe>          </div>
   </section>
   </div>
   <script type="application/ld+json">
-{"@context": "http://schema.org","@graph": [{"@context":"http://schema.org","@type":"WebPage","name":"Live demo for Multipurpose Portfolio By WINK Website Template #101269","url":"https://demo.templatemonster.com/demo/101269.html","description":"Multipurpose Portfolio By WINK Website Template#101269"}]}
+{"@context": "http://schema.org","@graph": [{"@context":"http://schema.org","@type":"WebPage","name":"Demo Preview for Hazel - Clean Minimalist Multi-Purpose WordPress Theme #67167","url":"https://demo.templatemonster.com/demo/67167.html","description":"The demo of this high quality Hazel - Clean Minimalist Multi-Purpose WordPress Theme (#67167) is available here for you to get the feel and look of the design prior to buying it. Browse through the pages, check out the images, press the buttons, explore the features."}]}
 </script>
   <script type="text/javascript">
   window.__app__ = window.__app__ || {};
@@ -120,6 +108,6 @@
 window.dataLayer = window.dataLayer || []; window.dataLayer.push({"pageType":"Cross-page","portalName":"All","portalContent":"All","categoryName":"Other"});
 });
 window.addEventListener('load', function() {
-  window.dataLayer = window.dataLayer || []; window.dataLayer.push({"event":"detailView","ecommerce":{"detail":{"products":[{"name":"Website template","id":"101269","price":0.41,"brand":"Website templates","category":"Artist Portfolio Templates","variant":"premium"}]}}});window.dataLayer.push({"event":"detailViewNew","productDetailView":{"name":"Multipurpose Portfolio By WINK Website Template","id":"101269","price":0.41,"brand":"Website templates","category":"Artist Portfolio Templates","variant":"premium","imageurl":"https:\/\/s.tmimgcdn.com\/scr\/800x500\/101200\/multipurpose-portfolio-by-wink-website-template_101269-5-original.jpg","similars":[]}});
+  window.dataLayer = window.dataLayer || []; window.dataLayer.push({"event":"detailView","ecommerce":{"detail":{"products":[{"name":"WordPress theme","id":"67167","price":0.98,"brand":"Website templates","category":"Marketing Agency Templates","variant":"premium"}]}}});window.dataLayer.push({"event":"detailViewNew","productDetailView":{"name":"Hazel - Clean Minimalist Multi-Purpose WordPress Theme","id":"67167","price":0.98,"brand":"Website templates","category":"Marketing Agency Templates","variant":"premium","imageurl":"https:\/\/s.tmimgcdn.com\/scr\/800x500\/67100\/hazel-clean-minimalist-multi-purpose-wordpress-theme_67167-6-original.jpg","similars":[]}});
 });</script>  </body>
   </html>
